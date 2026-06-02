@@ -1,9 +1,10 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey,%20I'm%20Paarth Jain!&fontColor=ffffff&fontSize=52&fontAlignY=40&color=0:0f0c29,50:302b63,100:24243e" />
+# <h1 align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey,%20I'm%20Paarth%20Jain!&fontColor=ffffff&fontSize=52&fontAlignY=40&color=0:0f0c29,50:302b63,100:24243e" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C471ED&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+MERN+Stack;ML+Enthusiast+%7C+Learning+by+Doing;Building+Projects+from+Bangalore+%F0%9F%87%AE%F0%9F%87%B3" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C471ED&center=true&vCenter=true&width=700&lines=Paarth+Jain;Full+Stack+Developer+%7C+MERN+Stack;Machine+Learning+Enthusiast;Building+Real-World+Projects+from+Bangalore+%F0%9F%87%AE%F0%9F%87%B3" />
 </p>
 
 ---
@@ -18,17 +19,18 @@ $ location
 Bangalore, India
 
 $ bio
-Aspiring Web Developer | Passionate about Tech
-Learning JS and MERN | Building projects | ML Enthusiast
+Aspiring Full Stack Developer | Passionate about Technology
+Learning JavaScript and MERN Stack | Building Projects | ML Enthusiast
 
 $ status
-Actively building web projects and improving full-stack skills (MERN).
-I enjoy hands-on practice — shipping small apps and learning by doing.
+Actively building web applications and improving full-stack development skills.
+I enjoy solving problems, shipping projects, and learning through hands-on experience.
 
 $ interests
 > full-stack-web-development
 > javascript-and-mern-stack
 > machine-learning
+> software-engineering
 > building-real-world-projects
 ```
 
@@ -69,12 +71,55 @@ $ interests
 
 ---
 
-## 🚀 Currently
+## 🚀 Featured Projects
 
-- 🌱 Learning **JavaScript** deeply and leveling up with **React + Node.js**
-- 🔨 Building **MERN stack projects** to strengthen full-stack fundamentals
-- 🤖 Exploring **Machine Learning** on the side
-- 📖 Reading, breaking things, and fixing them
+### 📈 Quantfolio
+
+A full-stack stock portfolio management platform built using the MERN stack.
+
+**Features**
+
+* Portfolio tracking and analytics
+* Interactive dashboards
+* Authentication and user management
+* Real-time stock data integration
+* Responsive modern UI
+
+**Tech Stack:** React, Node.js, Express.js, MongoDB
+
+---
+
+### 🌐 More Projects Coming Soon
+
+Currently building and exploring new projects in:
+
+* Full Stack Development
+* Machine Learning
+* Finance & Analytics
+* Web Applications
+
+---
+
+## 🎯 Current Focus
+
+* 🌱 Mastering JavaScript and modern web development
+* ⚛️ Building projects with React and Node.js
+* 📚 Learning Data Structures & Algorithms
+* 🤖 Exploring Machine Learning and AI
+* 🚀 Preparing for software development internships and opportunities
+
+---
+
+## 📈 Coding Journey
+
+```text
+Started Coding        ████████████
+JavaScript            ██████████░░
+React                 ███████░░░░░
+Node.js               ███████░░░░░
+Machine Learning      ████░░░░░░░░
+DSA                   █████░░░░░░░
+```
 
 ---
 
@@ -84,13 +129,21 @@ $ interests
   <a href="https://github.com/petrolhead-pj">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:your.email@gmail.com">
+
+  <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/">
+
+  <a href="https://www.linkedin.com/in/your-linkedin-profile/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+---
+
+## 💡 Quote
+
+> "Consistency compounds. Small improvements every day lead to remarkable results."
 
 ---
 
