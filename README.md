@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey,%20I'm%20Abhish!&fontColor=ffffff&fontSize=52&fontAlignY=40&color=0:0f0c29,50:302b63,100:24243e" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey,%20I'm%20Paarth Jain!&fontColor=ffffff&fontSize=52&fontAlignY=40&color=0:0f0c29,50:302b63,100:24243e" />
 </h1>
 
 <p align="center">
