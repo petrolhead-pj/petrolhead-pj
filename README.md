@@ -1,10 +1,9 @@
-````md
 # <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey,%20I'm%20Paarth%20Jain!&fontColor=ffffff&fontSize=52&fontAlignY=40&color=0:0f0c29,50:302b63,100:24243e" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey,%20I'm%20Paarth%20Jain!&fontColor=ffffff&fontSize=52&fontAlignY=40&color=0:0f0c29,50:302b63,100:24243e" alt="Header Banner" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C471ED&center=true&vCenter=true&width=700&lines=Paarth+Jain;Full+Stack+Developer+%7C+MERN+Stack;Machine+Learning+Enthusiast;Building+Real-World+Projects+from+Bangalore+🇮🇳" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C471ED&center=true&vCenter=true&width=800&lines=Information+Science+Engineering+Student;Full+Stack+Developer+%7C+MERN+Stack;AI+%26+Machine+Learning+Enthusiast;Building+Real-World+Projects+from+Bengaluru+🇮🇳" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,132 +14,22 @@
 $ whoami
 Paarth Jain
 
+$ education
+Information Science Engineering @ M. S. Ramaiah Institute of Technology
+
 $ location
-Bangalore, India
+Bengaluru, India
 
 $ bio
-Aspiring Full Stack Developer | Passionate about Technology
-Learning JavaScript and MERN Stack | Building Projects | ML Enthusiast
+Aspiring Full Stack & AI Developer | Passionate about Technology
+Building impactful projects across Web Dev, AI, and Blockchain. 
 
 $ status
-Actively building web applications and improving full-stack development skills.
-I enjoy solving problems, shipping projects, and learning through hands-on experience.
+Actively building applications, preparing for software development opportunities, 
+and tackling competitive programming challenges. 
 
 $ interests
 > full-stack-web-development
-> javascript-and-mern-stack
-> machine-learning
-> software-engineering
-> building-real-world-projects
-````
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,py&theme=dark" />
-</p>
-
-### Frameworks & Libraries
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind&theme=dark" />
-</p>
-
-### Databases & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode&theme=dark" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=petrolhead-pj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrolhead-pj&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=petrolhead-pj&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 📈 Quantfolio
-
-A full-stack stock portfolio management platform built using the MERN stack.
-
-**Features**
-
-* Portfolio tracking and analytics
-* Interactive dashboards
-* Authentication and user management
-* Real-time stock market insights
-* Responsive modern UI
-
-**Tech Stack:** React, Node.js, Express.js, MongoDB
-
----
-
-## 🎯 Current Focus
-
-* 🌱 Mastering JavaScript and modern web development
-* ⚛️ Building projects with React and Node.js
-* 📚 Learning Data Structures & Algorithms (Java)
-* 🤖 Exploring Machine Learning and AI
-* 🚀 Preparing for software development internships and opportunities
-
----
-
-## 📈 Coding Journey
-
-```text
-Started Coding        ████████████
-JavaScript            ██████████░░
-React                 ███████░░░░░
-Node.js               ███████░░░░░
-Machine Learning      ████░░░░░░░░
-DSA (Java)            █████░░░░░░░
-```
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/petrolhead-pj">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 💡 Quote
-
-> "Consistency compounds. Small improvements every day lead to remarkable results."
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=petrolhead-pj&style=for-the-badge&color=blueviolet" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0c29,50:302b63,100:24243e" />
-</p>
-```
+> artificial-intelligence & machine-learning
+> 3d-modeling-and-animation
+> hackathons-and-innovation-challenges
